@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Host
+host/dashboard.log
+
+# macOS app
+macos/.build/
+macos/build/
+
+# ESP32 / PlatformIO
+firmware/.pio/
+firmware/.vscode/
+
+# Android
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+android/local.properties
